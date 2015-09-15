@@ -1,0 +1,6 @@
+C:\NameSorter\NameSorter\NameSorter\bin\Debug\sort-names.exe.config
+C:\NameSorter\NameSorter\NameSorter\bin\Debug\sort-names.exe
+C:\NameSorter\NameSorter\NameSorter\bin\Debug\sort-names.pdb
+C:\NameSorter\NameSorter\NameSorter\obj\Debug\sort-names.exe
+C:\NameSorter\NameSorter\NameSorter\obj\Debug\sort-names.pdb
+C:\NameSorter\NameSorter\NameSorter\obj\Debug\NameSorter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\NameSorter\NameSorter\NameSorterTest\bin\Debug\NameSorterTest.dll
+C:\NameSorter\NameSorter\NameSorterTest\bin\Debug\NameSorterTest.pdb
+C:\NameSorter\NameSorter\NameSorterTest\bin\Debug\Moq.dll
+C:\NameSorter\NameSorter\NameSorterTest\bin\Debug\sort-names.exe
+C:\NameSorter\NameSorter\NameSorterTest\bin\Debug\sort-names.pdb
+C:\NameSorter\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.csprojResolveAssemblyReference.cache
+C:\NameSorter\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.dll
+C:\NameSorter\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.pdb
