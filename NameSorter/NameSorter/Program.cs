@@ -27,8 +27,9 @@ namespace NameSorter
                 ISorter nameSorter = new FileNameSorter(inputFileName, outputFileName);
                 nameSorter.Sort();
             }
-            catch (Exception e)
+            catch (Exception)
             {
+                //TODO: log the exception.
                 Console.WriteLine(FileSorterMessage.UnhandledException);
                 Console.ReadKey();
             }
