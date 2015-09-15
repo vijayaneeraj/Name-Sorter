@@ -7,7 +7,8 @@ using NameSorter.Model;
 
 namespace NameSorterTest.Common
 {
-    class NameSorterTests
+     [TestClass]
+    public class NameSorterTests
     {
         [TestMethod]
         public void SortNameByLastAndFirstName_TakesNames()
